@@ -29,13 +29,12 @@ In addition, we have two social network data, which are old friendship before th
 For three main tasks, we need to perform different operations.
 
 1. Activity differences at different time for every individual: 
-
 Separate the data by months/year. Analyze whether check-in location type change?. Analyze whether people go to the office and back home at different time. Analyze whether people visit some places at specific time, eg. Christmas, Holloween, etc.
+
 2. Activity difference between people from countries:
-
 Query several/all countries, depending on the datasize, and how will we visualize the results. Analyze when people from different countries go to the office. Analyze the top 20 most common visiting locations from countries. (We expect Ramen Shop in Japan, Beer Garden in Germany, etc.)
-3. Relationship between human periodic mobility and social networks:
 
+3. Relationship between human periodic mobility and social networks:
 Merge the check-in data with old-friendship data. Analyze whether friends visit locations with proximity in terms of physical location. Or, do they visit locations with proximity in terms of type of location, eg. Gym, cafeteria, movie theater? Merge the check-in data with new-friendship data. Analyze the probability of new friendships with respect to users’ activity preference; namely, check-in location, location type, etc.
 
 <h2>Proposed timeline</h2>
