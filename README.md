@@ -38,12 +38,17 @@ Merge the check-in data with old-friendship data. Analyze whether friends visit 
 <h2>Proposed timeline</h2>
 
 **Week1**: Clean and Merge the data. Answer the research questions. Analyze whether the answer match / do not match what we expect.
+
 **Week2**: Analyze the answers. Transform the answers into visualization. 
+
 **Week3**: Prepare the datastory and short Video.
 
 <h2>Organization within the team</h2>
 
 **Yu-Ting Huang**: relationship between human periodic mobility and social networks.
+
 **De-Ling Liu**: activity difference between people from different countries.
+
 **Adel Qasem**: activity difference at different time for every individual.
+
 Everyone is responsible for the analysis and visualization of their own tasks. Create the datastory together.
