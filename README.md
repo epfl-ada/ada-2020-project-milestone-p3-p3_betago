@@ -33,11 +33,13 @@ Query several/all countries, depending on the datasize, and how will we visualiz
 Merge the check-in data with old-friendship data. Analyze whether friends visit locations with proximity in terms of physical location. Or, do they visit locations with proximity in terms of type of location, eg. Gym, cafeteria, movie theater? Merge the check-in data with new-friendship data. Analyze the probability of new friendships with respect to users’ activity preference; namely, check-in location, location type, etc.
 
 <h2>Proposed timeline</h2>
+
 1. Week1: Clean and Merge the data. Answer the research questions. Analyze whether the answer match / do not match what we expect.
 2. Week2: Analyze the answers. Transform the answers into visualization. 
 3. Week3: Prepare the datastory and short Video.
 
 <h2>Organization within the team</h2>
+
 1. Yu-Ting Huang: relationship between human periodic mobility and social networks.
 2. De-Ling Liu: activity difference between people from different countries.
 3. Adel Qasem: activity difference at different time for every individual.
