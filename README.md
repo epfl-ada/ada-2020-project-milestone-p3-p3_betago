@@ -19,8 +19,10 @@ Understanding mobility provides us insights to make decisions, from small things
 - What is the probability of establishing a new friendship with respect to mobility behaviors?
 
 <h2>Proposed dataset</h2>
-The ![dataset](https://drive.google.com/file/d/1PNk3zY8NjLcDiAbzjABzY5FiPAFHq6T8/view) includes long-term (from 2012.04 to 2014.01) global-scale check-in data collected from Foursquare. It contains 22,809,624 checkins by 114,324 users on 3,820,891 locations (userID, check-in time, check-in location, location type). The location type contains home, office, gym, train station, etc, which is important for us to perform fine-grained analysis.
+The dataset* (https://drive.google.com/file/d/1PNk3zY8NjLcDiAbzjABzY5FiPAFHq6T8/view) includes long-term (from 2012.04 to 2014.01) global-scale check-in data collected from Foursquare. It contains 22,809,624 checkins by 114,324 users on 3,820,891 locations (userID, check-in time, check-in location, location type). The location type contains home, office, gym, train station, etc, which is important for us to perform fine-grained analysis.
 In addition, we have two social network data, which are old friendship before the check-in being recorded, and new friendship after the check-in being recorded.
+
+*Dingqi Yang, Bingqing Qu, Jie Yang, Philippe Cudre-Mauroux, Revisiting User Mobility and Social Relationships in LBSNs: A Hypergraph Embedding Approach, In Proc. of The Web  Conference (WWW'19). May. 2019, San Francisco, USA.
 
 <h2>Methods</h2>
 For three main tasks, we need to perform different operations.
