@@ -1,5 +1,4 @@
-<h2>Title</h2>
-Someone like you.
+<h2>Title: Someone like you</h2>
 
 <h2>Abstract</h2>
 The paper explores the structural patterns of mobility due to geographic and social constraints. For long-distance travel, the authors focus on the influence from social network; while for short-ranged travel, the authors claim that it is heavily dependent on periodic behaviors and not effect by the social network.
