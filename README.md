@@ -4,7 +4,7 @@
 
 With more than 7.7 billion world population, do you want to understand the binding force between people? Is it more likely for sociable people to meet someone homogeneous? Are you curious about how similar are you to the strangers, or to your friends? Could you meet someone with similar mobility pattern with you in restaurant or convenience store? Or is it more likely to meet someone like you in bar or gym?
 
-In this datastory, we start with a high-level investigation on similarity between two of people's features: sociability and average traveling distance. Then we study fine-grained level human mobility, which are similarity from people around the world, to people living in the same country, then to pairs of friends. As we reveal the story, you can find that cultural difference between countries plays an important factor in inflencing people's movement. We look into the periodic and non-periodic mobility difference between countries.
+In this datastory, we start with a high-level investigation on similarity between two of people's features: sociability and average traveling distance. Then we study fine-grained level human mobility, which are similarity from people around the world, to people living in the same country, then to pairs of friends. As we reveal the story, you can find that cultural difference between countries plays an important factor in inflencing people's movement. Hence we also look into the periodic and non-periodic mobility difference between countries.
 
 In our datastory, we will guide you through three relevent topics and help you understand human's connections.
 
