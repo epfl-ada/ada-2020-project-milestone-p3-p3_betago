@@ -49,10 +49,8 @@ Analyze the most commonly visited places in 10 major countries (e.g. noodle plac
 
 <h2>Organization within the team</h2>
 
-**Yu-Ting Huang**:  Friendship and Mobility.
+**Yu-Ting Huang**:  Friendship and Mobility, research questions and their visualization. Website setup + datastory content.
 
-**De-Ling Liu**: Country and Mobility.
+**De-Ling Liu**: Country and Mobility, research questions and their visualization. Datastory content + overall structures. 
 
-**Adel Qasem**: Broad introduction.
-
-Everyone is responsible for the analysis and visualization of their own tasks. Create the datastory together.
+**Adel Qasem**: Broad introduction, research questions and their visualization. Datastory content + introduction.
