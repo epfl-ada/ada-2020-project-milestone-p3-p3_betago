@@ -1,9 +1,11 @@
 <h2>Title: Someone like you</h2>
 
 <h2>Abstract</h2>
-The paper explores the structural patterns of mobility due to geographic and social constraints. For long-distance travel, the authors focus on the influence from social network; while for short-ranged travel, the authors claim that it is heavily dependent on periodic behaviors and not effect by the social network.
-On the contrary to the paper’s research direction, we are more interested in fine-grained level human mobility. We propose to investigate human daily mobility, maybe activity differences as a function of friendship/strangerhood and presence in the same/different country.
-Understanding mobility provides us insights to make decisions, from small things around us, to big things that would be impactful to a country. For instance, where can I travel during Christmas if I don’t want to visit overcrowded areas? Under covid-19 pandemic, which areas are gathered by people and how should the government respond? Although we don’t answer these two specific questions, our research is a good point to start with.
+
+With more than 7.7 billion world population, do you want to understand the binding force between people? Is it more likely for sociable people to meet someone homogeneous? Are you curious about how similar are you to the strangers, or to your friends? Could you meet someone with similar mobility pattern with you in a restaurant or convenience store? Or is it more likely to meet someone like you in bar or gym?
+
+In this datastory, we start with a high-level investigation on similarity between two of people's features: sociability and average traveling distance. Then we study fine-grained level human mobility, which are similarity from people around the world, to people living in the same country, then to pairs of friends. As we reveal the story, you can find that cultural difference in country plays an important role in inflencing people's movement. Consequently, we  the periodic and non-periodic mobility difference between countries.
+study fine-grained level human mobility, and investigate similarity from people around the world, to people living in the same country, then to pairs of friends. As we reveal the story, you can find that cultural difference in country plays an important factor in inflencing people's movement. Consequently, we focus on the periodic and non-periodic mobility difference between countries.
 
 <h2>Research Questions</h2>
 
