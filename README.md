@@ -1,7 +1,6 @@
 <h2>Title: Someone like you</h2>
 <h2>Datastroy</h2>
-Check out our data story [here!](https://ythuangyt.github.io/friendship-mobility/).
-[link to Google!](http://google.com)
+Check out our data story [here] (https://ythuangyt.github.io/friendship-mobility/).
 In order to see all the plots, check out the milestone-p4.html (HTML version of the notebook).
 
 <h2>Abstract</h2>
